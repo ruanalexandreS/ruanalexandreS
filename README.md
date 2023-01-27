@@ -14,21 +14,21 @@
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 <br>
-
-### <p align="center">💻 Desenvolvedor Web Front-End</p>
+<hr>
+<p align="center">💻 Desenvolvedor Web Front-End</p>
 <div align="center">
-  <a href="https://matheusdesouzasilva70.github.io/Bio-contatos/" target="_blank"><img src="https://img.shields.io/badge/Meu-Portf%C3%B3lio-blueviolet?style=for-the-badge" target="_blank"></a>
+<img src="https://img.shields.io/badge/Meu-Portf%C3%B3lio-blueviolet?style=for-the-badge" target="_blank"></a>
 </div>
 
  <div style="display: inline_block" align="center">
- 
-###  <p align="center">🧩|Skills</p>
+ <hr>
+  <p align="center">🧩|Skills</p>
 <p align="center" style="display: flex;">
 <img src="https://img.shields.io/badge/HTML5-e44114?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="jAVASCRIPT" />
- 
- ### <p align="center">☎💬|Contato</p> 
+ <hr>
+  <p align="center">☎💬|Contato</p> 
  
  <div> 
   <a href="https://www.instagram.com/ruan_alexandre.s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -36,8 +36,8 @@
   <a href="https://www.linkedin.com/in/ruan-alexandre-6335a7246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
- 
-###  💼 |**Ferramentas** </p>
+ <hr>
+  💼 |**Ferramentas** </p>
 <p align="center" style="display: flex;">
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/>	
  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -46,8 +46,8 @@
   <img src="https://img.shields.io/badge/Canva-%2300-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
  <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome"/>	
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"alt="Microsoft Office"/>
-
-###  ⚙️🔧| **GitHub Estatísticas** </p>
+<hr>
+  ⚙️🔧| **GitHub Estatísticas** </p>
  <div>
   <a href="https://github.com/ruanalexandreS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanalexandreS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
