@@ -61,7 +61,7 @@
  
  </br>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ruan_alexandre.s/ruan_alexandre.s/blob/output/github-contribution-grid-snake.svg)
  
  <hr/>
 <img src= "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">   
