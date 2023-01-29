@@ -1,16 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7733FF&height=120&section=header"/>
-<h1 align="center"># Bem-vindo(a) ao perfil ao Meu Perfil 🔥 </h1>
+<h1 align="center"># Bem-vindo(a) ao perfil ao Meu Perfil!🔥 </h1>
 <br>
 <h2 align="center">Oi, meu nome é Ruan Alexandre e eu estou estudando para ser um Desenvolvedor Full-Stack.</h2>
 <h3> Um pouco sobre mim: </h3>
 
 🖥️Sou estudante Defesa cibernética - (Cursando 1º Semestre) e estudo programação em cursos onlines.
 
-💻Estou estudando na Faculdade Estácio 
+💻Estou estudando na Faculdade Estácio.
 
-⌨️Atualmente estou aprendendo HTML, CSS, JAVASCRIPT e PYTHON
+⌨️Atualmente estou aprendendo HTML, CSS, JAVASCRIPT e PYTHON.
 
-🎮E também gosto de jogos
+🎮Gosto de escutar músicas e também gosto de jogos, porém meu foco agora é estudar para alcançar meus objetivos. 
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 <br>
