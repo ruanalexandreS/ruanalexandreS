@@ -15,9 +15,7 @@
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 <br>
 <p align="center">💻 Desenvolvedor Web Front-End</p>
-<div align="center">
-<img src="https://img.shields.io/badge/Meu-Portf%C3%B3lio-blueviolet?style=for-the-badge" target="_blank"></a>
-</div>
+
 
  <div style="display: inline_block" align="center">
   <p align="center">🧩|Skills</p>
