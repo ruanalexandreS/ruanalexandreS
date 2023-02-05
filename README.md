@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7733FF&height=120&section=header"/>
-<h1 align="center"># Bem-vindo(a) ao perfil ao Meu Perfil!🔥 </h1>
+<h1 align="center"># Bem-vindo(a) ao Meu Perfil!🔥 </h1>
 <br>
 <h2 align="center">Oi, meu nome é Ruan Alexandre e eu estou estudando para ser um Desenvolvedor Full-Stack.</h2>
 <h3> Um pouco sobre mim: </h3>
@@ -8,7 +8,7 @@
 
 💻Estou estudando na Faculdade Estácio.
 
-⌨️Atualmente estou aprendendo HTML, CSS, JAVASCRIPT e PYTHON.
+⌨️Atualmente estou aprendendo HTML, CSS, JAVASCRIPT e REACT .
 
 🎮Gosto de escutar músicas e também gosto de jogos, porém meu foco agora é estudar para alcançar meus objetivos. 
 
@@ -73,6 +73,6 @@ Não melhor do que alguém  hoje "_**
 
 
 </br>
-  ### <p align="center">💻 Visitantes no Perfil </p>
+   <p align="center"> 💻 Visitantes no Perfil </p>
  <img align="relative" src="https://profile-counter.glitch.me/ruan_alexandre.s/count.svg" > 
  	
