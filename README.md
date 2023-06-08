@@ -8,7 +8,7 @@
 
 💻Estou estudando na Faculdade Estácio.
 
-⌨️Atualmente estou aprendendo HTML, CSS, JAVASCRIPT e REACT .
+⌨️Atualmente estou aprendendo HTML, CSS, JAVASCRIPT.
 
 🎮Gosto de escutar músicas e também gosto de jogos, porém meu foco agora é estudar para alcançar meus objetivos. 
 
