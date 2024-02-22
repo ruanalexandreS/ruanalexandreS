@@ -1,20 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7733FF&height=120&section=header"/>
-<h1 align="center"># Bem-vindo(a) ao Meu Perfil!🔥 </h1>
+<h1 align="center"># Bem-vindo(a) ao Meu Perfil! </h1>
 <br>
-<h2 align="center">Oi, meu nome é Ruan Alexandre e eu estou estudando para ser um Desenvolvedor Full-Stack.</h2>
+<h2 align="center">Oi, meu nome é Ruan Alexandre e eu estou estudando para ser um Desenvolvedor Back-end.</h2>
 <h3> Um pouco sobre mim: </h3>
 
-🖥️Sou estudante Defesa cibernética - (Cursando 1º Semestre) e estudo programação em cursos onlines.
+🖥️Sou estudante Análise e Desenvolvimento de Sistemas - (Cursando 1º Semestre) e estudo programação em cursos onlines.
 
-💻Estou estudando na Faculdade Estácio.
+💻Estou estudando na Faculdade Unopar.
 
-⌨️Atualmente estou aprendendo HTML, CSS, JAVASCRIPT.
+⌨️Atualmente estou aprendendo Gestão de Software, C#, Redes de computadores.
 
-🎮Gosto de escutar músicas e também gosto de jogos, porém meu foco agora é estudar para alcançar meus objetivos. 
+Colocarei aqui projetos pessoais e da faculdade.
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 <br>
-<p align="center">💻 Desenvolvedor Web Front-End</p>
+<p align="center">💻 Desenvolvedor Back-end</p>
 
 
  <div style="display: inline_block" align="center">
