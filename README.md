@@ -4,13 +4,11 @@
 <h2 align="center">Oi, meu nome é Ruan Alexandre e eu estou estudando para ser um Desenvolvedor DotNet.</h2>
 <h3> Um pouco sobre mim: </h3>
 
-🖥️Sou estudante Análise e Desenvolvimento de Sistemas - (Cursando 1º Semestre) e estudo programação em cursos onlines.
+🖥️Sou estudante Engenharia de Software e estudo programação em cursos onlines.
 
-💻Estou estudando na Faculdade Unopar.
+💻Estou estudando na Faculdade Unicesumar.
 
-⌨️Atualmente estou aprendendo Gestão de Software, C#, Redes de computadores.
-
-Colocarei aqui projetos pessoais e da faculdade.
+⌨️Atualmente estou aprendendo C#.
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 <br>
@@ -22,12 +20,11 @@ Colocarei aqui projetos pessoais e da faculdade.
 <p align="center" style="display: flex;">
 <img src="https://img.shields.io/badge/HTML5-e44114?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="jAVASCRIPT" />
 
   <p align="center">☎💬|Contato</p> 
  
  <div> 
-  <a href="https://www.instagram.com/ruan_alexandre.s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
   <a href="ruancampos366@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruan-alexandre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
