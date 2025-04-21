@@ -1,75 +1,61 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7733FF&height=120&section=header"/>
-<h1 align="center"># Bem-vindo(a) ao Meu Perfil! </h1>
-<br>
-<h2 align="center">Oi, meu nome é Ruan Alexandre e eu estou estudando para ser um Desenvolvedor DotNet.</h2>
-<h3> Um pouco sobre mim: </h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7733FF&height=120&section=header"/>
 
-🖥️Sou estudante Engenharia de Software e estudo programação em cursos onlines.
+<h1 align="center">Bem-vindo(a) ao meu GitHub 👋</h1>
+<h3 align="center">🚀 Me chamo Ruan Alexandre, futuro Desenvolvedor .NET Full Stack</h3>
 
-💻Estou estudando na Faculdade Unicesumar.
+### 🧠 Sobre mim
 
-⌨️Atualmente estou aprendendo C#.
+🎓 Estudante de Engenharia de Software pela Unicesumar  
+💻 Apaixonado por tecnologia e desenvolvimento de software  
+🔎 Atualmente focado em aprender **C# e o ecossistema .NET**  
+📚 Estudando com cursos online e projetos práticos
 
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
-<br>
-<p align="center">💻 Desenvolvedor .Net</p>
+### 🚀 Skills e Tecnologias
 
+![HTML5](https://img.shields.io/badge/HTML5-e44114?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
- <div style="display: inline_block" align="center">
-  <p align="center">🧩|Skills</p>
-<p align="center" style="display: flex;">
-<img src="https://img.shields.io/badge/HTML5-e44114?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+### 🛠️ Ferramentas
 
-  <p align="center">☎💬|Contato</p> 
- 
- <div> 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-  <a href="ruancampos366@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ruan-alexandre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
- 
-  💼 |**Ferramentas** </p>
-<p align="center" style="display: flex;">
-   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/>	
- <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
- <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Canva-%2300-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
- <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome"/>	
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"alt="Microsoft Office"/>
+### 📊 GitHub Stats
 
-  ⚙️🔧| **GitHub Estatísticas** </p>
- <div>
-  <a href="https://github.com/ruanalexandreS">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanalexandreS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanalexandreS&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- </br>
- 
- <hr/>
-<img src= "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">   
-	
-### "Frases motivacionais"
 
-- **_"Você nunca sabe que resultados virão da sua ação."_**
+### 📬 Contato
 
-- **_"Se você pode sonhar, você pode alcançá-lo"._**
-- **_"Você é o seu unico Limite"_**
-- **_"Enquanto você dúvida de si mesmo,
- outros tem medo do seu potencial"_**
-- **_"A meta sempre foi ser melhor do que fui ontem,
-Não melhor do que alguém  hoje "_**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ruan-alexandre-8a840b35b)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruancampos366@gmail.com)
 
+---
 
-</br>
-   <p align="center"> 💻 Visitantes no Perfil </p>
- <img align="relative" src="https://profile-counter.glitch.me/ruan_alexandre.s/count.svg" > 
- 	
+### 💬 Frases Motivacionais
+
+> "Você nunca sabe que resultados virão da sua ação."
+
+> "Se você pode sonhar, você pode alcançá-lo."
+
+> "Você é o seu único limite."
+
+> "Enquanto você duvida de si mesmo, outros têm medo do seu potencial."
+
+> "A meta sempre foi ser melhor do que fui ontem, não melhor do que alguém hoje."
+
+---
+
+<p align="center">💻 Visitantes no perfil</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ruan_alexandre.s/count.svg" />
+</p>
+
+---
+<h3 align="center">🔥 Obrigado por visitar! Sinta-se à vontade para se conectar e acompanhar minha jornada. 🚀</h3>
