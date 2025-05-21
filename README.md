@@ -1,12 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7733FF&height=120&section=header"/>
 
 <h1 align="center">Bem-vindo(a) ao meu GitHub 👋</h1>
-<h3 align="center">🚀 Me chamo Ruan Alexandre, futuro Desenvolvedor .NET Full Stack</h3>
+<h3 align="center">🚀 Desenvolvedor Full Stack</h3>
 
 ### 🧠 Sobre mim
 
 🎓 Estudante de Engenharia de Software  
-💻 Apaixonado por tecnologia e desenvolvimento de software  
 🔎 Atualmente focado em aprender **C#**  
 📚 Estudando com cursos online e projetos práticos
 
