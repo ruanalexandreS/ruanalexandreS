@@ -5,9 +5,9 @@
 
 ### 🧠 Sobre mim
 
-🎓 Estudante de Engenharia de Software pela Unicesumar  
+🎓 Estudante de Engenharia de Software  
 💻 Apaixonado por tecnologia e desenvolvimento de software  
-🔎 Atualmente focado em aprender **C# e o ecossistema .NET**  
+🔎 Atualmente focado em aprender **C#**  
 📚 Estudando com cursos online e projetos práticos
 
 ### 🚀 Skills e Tecnologias
@@ -15,12 +15,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-e44114?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🛠️ Ferramentas
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -34,7 +32,6 @@
 ### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-alexandre-dos-santos)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandreruan465@gmail.com)
 
 ---
 
