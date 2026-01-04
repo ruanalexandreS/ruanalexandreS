@@ -1,57 +1,70 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7733FF&height=120&section=header"/>
+# Hi there, I'm Ruan Alexandre! 👋
+### 🚀 Full Stack Developer | .NET & Angular
 
-<h1 align="center">Bem-vindo(a) ao meu GitHub 👋</h1>
-<h3 align="center">🚀 Desenvolvedor Full Stack</h3>
+I'm a **Software Engineering Student** passionate about technology and problem-solving. Currently working as an **IT Intern**, I am building a strong foundation in backend development with **C#** while expanding my frontend skills with **Angular** to deliver complete solutions.
 
-### 🧠 Sobre mim
+---
 
-🎓 Estudante de Engenharia de Software  
-🔎 Atualmente focado em aprender **C#**  
-📚 Estudando com cursos online e projetos práticos
+### 👨‍💻 About Me
 
-### 🚀 Skills e Tecnologias
+- 🎓 **Education:** B.S. in Software Engineering (In Progress).
+- 💼 **Experience:** IT Intern at City Hall .
+- 🌱 **Current Focus:** Master the .NET Ecosystem and learn Single Page Applications (SPA) with Angular.
+- 🎯 **Goal:** To land a Junior Full Stack or Backend Developer role.
 
-![HTML5](https://img.shields.io/badge/HTML5-e44114?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+---
 
-### 🛠️ Ferramentas
+### 🛠️ Tech Stack
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Backend & Core**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/sql%20server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Frontend (Studying & Practicing)**
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Tools & Version Control**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanalexandreS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanalexandreS&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/ruanalexandreS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanalexandreS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanalexandreS&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
-### 📬 Contato
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-alexandre-dos-santos)
+### ⚡ Motivational Quotes
+
+> "You never know the results that will come from your action. But if you do nothing, there will be no result."
+
+> "The goal is always to be better than I was yesterday, not better than anyone else is today."
 
 ---
 
-### 💬 Frases Motivacionais
+### 📫 Connect with me
 
-> "Você nunca sabe que resultados virão da sua ação."
+<a href="https://www.linkedin.com/in/ruan-alexandre-" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a> 
+<a href="mailto:seuemail@exemplo.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+</a>
 
-> "Se você pode sonhar, você pode alcançá-lo."
-
-> "Você é o seu único limite."
-
-> "Enquanto você duvida de si mesmo, outros têm medo do seu potencial."
-
-> "A meta sempre foi ser melhor do que fui ontem, não melhor do que alguém hoje."
-
----
-
-<p align="center">💻 Visitantes no perfil</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ruan_alexandre.s/count.svg" />
-</p>
-
----
-<h3 align="center">🔥 Obrigado por visitar! Sinta-se à vontade para se conectar e acompanhar minha jornada. 🚀</h3>
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruanalexandreS&color=blueviolet" alt="Profile Views" />
+</div>
