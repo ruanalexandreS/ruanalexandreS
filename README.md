@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7733FF&height=120&section=header"/>
+
 # Hi there, I'm Ruan Alexandre! 👋
 ### 🚀 Full Stack Developer | .NET & Angular
 
@@ -8,9 +10,7 @@ I'm a **Software Engineering Student** passionate about technology and problem-s
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** B.S. in Software Engineering (In Progress).
-- 💼 **Experience:** IT Intern at City Hall .
 - 🌱 **Current Focus:** Master the .NET Ecosystem and learn Single Page Applications (SPA) with Angular.
-- 🎯 **Goal:** To land a Junior Full Stack or Backend Developer role.
 
 ---
 
@@ -34,19 +34,6 @@ I'm a **Software Engineering Student** passionate about technology and problem-s
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ruanalexandreS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanalexandreS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanalexandreS&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
----
-
 ### ⚡ Motivational Quotes
 
 > "You never know the results that will come from your action. But if you do nothing, there will be no result."
@@ -60,7 +47,7 @@ I'm a **Software Engineering Student** passionate about technology and problem-s
 <a href="https://www.linkedin.com/in/ruan-alexandre-" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a> 
-<a href="mailto:seuemail@exemplo.com">
+<a href="mailto:ruanalexandre625@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
 </a>
 
