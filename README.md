@@ -49,15 +49,15 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruanalexandreS&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ruanalexandreS&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanalexandreS&layout=donut&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruanalexandreS&theme=tokyonight"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruanalexandreS&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruanalexandreS&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
