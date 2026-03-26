@@ -1,5 +1,3 @@
-implmente o que voce mandou no meu codigo
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7733FF&height=120&section=header"/>
 # Hi there, I'm Ruan Alexandre! 👋
 ### 🚀 Full Stack Developer | .NET & Angular
