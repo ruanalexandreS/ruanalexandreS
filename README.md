@@ -49,15 +49,13 @@
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ruanalexandreS&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanalexandreS&layout=donut&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruanalexandreS&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruanalexandreS&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruanalexandreS&theme=tokyo-night&hide_border=true&area=true&hide_title=false"/>
 
 </div>
 
