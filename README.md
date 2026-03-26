@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer | .NET & Angular
 
-I'm a **Software Engineering Student** passionate about technology and problem-solving. Currently working as an **IT Intern**, I am building a strong foundation in backend development with **C#** while expanding my frontend skills with **Angular** to deliver complete solutions.
+I am a **Software Engineering Student**, passionate about technology and problem-solving. I am currently building a solid foundation in backend development with **C#**, while expanding my frontend skills with **Angular** to deliver complete solutions.
 
 ---
 
@@ -43,8 +43,13 @@ I'm a **Software Engineering Student** passionate about technology and problem-s
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanalexandreS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanalexandreS&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanalexandreS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanalexandreS&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ruanalexandreS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
